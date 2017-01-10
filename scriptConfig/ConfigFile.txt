@@ -1,0 +1,4 @@
+Nom d'hôte : TPSCRIPT
+IP : 192.168.0.10 / 24
+Passerelle : 192.168.0.1
+Services : DNS;DHCP;
